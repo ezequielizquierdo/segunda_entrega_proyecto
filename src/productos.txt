@@ -1,0 +1,83 @@
+[
+  {
+    "title": "Auriculares in-ear gamer inalámbricos Haylou GT Series GT1 negro",
+    "category": "Earphones",
+    "price": 3899,
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_2X_749481-MLA40812448226_022020-F.webp",
+    "id": 1
+  },
+  {
+    "title": "Auriculares in-ear gamer inalámbricos Haylou GT Series GT1 Pro negro",
+    "category": "Earphones",
+    "price": 3299,
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_2X_825073-MLA40760731794_022020-F.webp",
+    "id": 2
+  },
+  {
+    "title": "Auriculares in-ear inalámbricos Haylou GT1 XR negro",
+    "category": "Earphones",
+    "price": 4999,
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_2X_895993-MLA45883000698_052021-F.webp",
+    "id": 3
+  },
+  {
+    "title": "Auriculares Bluetooth Tws Earbuds Para Samsung Huawei Sony",
+    "category": "Earphones",
+    "price": 12100,
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_2X_939435-MLA48138841444_112021-F.webp",
+    "id": "4"
+  },
+  {
+    "title": "Apple AirPods Pro - Blanco",
+    "category": "Earphones",
+    "price": 45500,
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_2X_798525-MLA46180356947_052021-F.webp",
+    "id": 5
+  },
+  {
+    "title": "Auriculares in-ear inalámbricos JBL Tune 225TWS black",
+    "price": "13942",
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_2X_771784-MLA46222272082_052021-F.webp",
+    "id": 6
+  },
+  {
+    "title": "Auriculares in-ear inalámbricos Lenovo LivePods LP1 blanco y negro",
+    "category": "Earphones",
+    "price": 3300,
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_2X_963483-MLA48121417460_112021-F.webp",
+    "id": 7,
+    "timestamp": 1654531558212
+  },
+  {
+    "title": "Auriculares in-ear inalámbricos F9-5 negro",
+    "category": "Earphones",
+    "price": 1830,
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_2X_938092-MLA45480677826_042021-F.webp",
+    "id": 8,
+    "timestamp": 1654531805453
+  },
+  {
+    "title": "Auriculares gamer Onikuma K19 camuflaje gris con luz rgb LED",
+    "category": "Earphones",
+    "price": 4581,
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_2X_888069-MLA43691649190_102020-F.webp",
+    "id": 9,
+    "timestamp": 1654658303778
+  },
+  {
+    "title": "Auriculares gamer Kotion Each G9000 black y blue",
+    "category": "Earphones",
+    "price": 1528,
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_2X_738955-MLA40252400386_122019-F.webp",
+    "id": 10,
+    "timestamp": 1654620597795
+  },
+  {
+    "title": "Auriculares gamer Onikuma K19 camuflaje gris con luz rgb LED",
+    "category": "Earphones",
+    "price": 4581,
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_2X_888069-MLA43691649190_102020-F.webp",
+    "id": 11,
+    "timestamp": 1654705711948
+  }
+]
